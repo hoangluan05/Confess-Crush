@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "From Luân Hoàng With Love",
-    introTitle: '♥️ Doãn Thị Huế ♥️',
+    introTitle: '♥️ Các Bạn Nữ Trong CLB ♥️',
     introDesc: `Chúc bạn ngày 20/10 nhận được nhiều quà, nhiều hoa, nhiều lời yêu thương từ phái nam trong ngày đặc biệt này. Hãy luôn xinh đẹp, rạng ngời và thành công trong cuộc sống nhé😍😍😍!`,
     btnIntro: '^^Yêu bạn nhiều^^',
     title: 'Nhân dịp 20/10, thay mặt anh em trong CLB, chúc bạn xinh đẹp 💄và những đièu tốt nhất dành cho bạn.😘',
@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Tớ thích cậu nhiều lắm ',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 8h, tớ sẽ cho cậu 1 bất ngờ nhé.',
+    messDesc: 'Trên Page CLB, tớ sẽ cho cậu 1 bất ngờ nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/nuaan.123205/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
